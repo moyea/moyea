@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/moyea/moyea.svg)](http://hits.dwyl.com/moyea/moyea)
+[![HitCount](http://hits.dwyl.com/moyea/moyea.svg)](http://hits.dwyl.com/moyea/react-admin)
 
 <!--
 **moyea/moyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
